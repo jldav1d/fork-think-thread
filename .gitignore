@@ -44,7 +44,7 @@ next-env.d.ts
 /.vscode/
 
 # ignore page for testing random stuff
-/test-page/
+/app/test-page/
 
 # drizzle
 /drizzle
